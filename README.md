@@ -7,8 +7,8 @@
 🤝 Open to internships, collaboration, and mentorship
 
 ## 🔧 Projects I’ve Built and Building
-- **AlterEgo CLI App**(in progress) – A journaling and split personality simulator in Python
-- **Simple Calculator** – A Python-based CLI calculator for arithmetic operations
+- **AlterEgo CLI App** – A simple journaling and split personality simulator in Python
+- **Simple Calculator**(in progress) – A Python-based CLI calculator for arithmetic operations
 - **Bank Account System** – Simple C++ project simulating basic banking functions (OOP)
 - **Face Recognition Tool** – Python (OpenCV) based AI project
 - **Visual Statistics Website** – Created using Google Sites
